@@ -16,13 +16,13 @@
 #### Home page
 ![Home Page](path/to/homepage-screenshot.png)
 
-#### Popular goods
+#### Popular products
 ![Popular Products Page](path/to/popular-products-screenshot.png)
 
-#### Warehouse page
+#### Stock page
 ![Stock Page](path/to/stock-page-screenshot.png)
 
-#### Buyers page
+#### Customers page
 ![Customers Page](path/to/customers-page-screenshot.png)
 
 ### Database structure
