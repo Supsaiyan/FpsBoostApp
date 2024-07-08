@@ -25,16 +25,6 @@
 #### Customers page
 ![Customers Page](scrn/fba-crs-scrn.png)
 
-### Database structure
-
-The project includes a Microsoft Access database with the following tables:
-- **Products**: Information about PC components.
-- **Customers**: Data about registered users.
-- **Orders**: Customer order details.
-- **Order_Details**: Specific items included in each order.
-- **Suppliers**: Information about component suppliers.
-- **Stock**: Availability of goods in stock.
-
 ### Contact
 
 For any questions or suggestions, feel free to reach out:
