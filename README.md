@@ -14,16 +14,16 @@
 ### Screenshots
 
 #### Home page
-![Home Page](path/to/homepage-screenshot.png)
+![Home Page](scrn/fba-home-scrn.png)
 
 #### Popular products
-![Popular Products Page](path/to/popular-products-screenshot.png)
+![Popular Products Page](scrn/fba-pop-scrn.png)
 
 #### Stock page
-![Stock Page](path/to/stock-page-screenshot.png)
+![Stock Page](scrn/fba-stock-scrn.png)
 
 #### Customers page
-![Customers Page](path/to/customers-page-screenshot.png)
+![Customers Page](scrn/fba-crs-scrn.png)
 
 ### Database structure
 
@@ -34,3 +34,8 @@ The project includes a Microsoft Access database with the following tables:
 - **Order_Details**: Specific items included in each order.
 - **Suppliers**: Information about component suppliers.
 - **Stock**: Availability of goods in stock.
+
+### Contact
+
+For any questions or suggestions, feel free to reach out:
+- **Email**: [supsx1yxn@gmail.com](mailto:supsx1yxn@gmail.com)
