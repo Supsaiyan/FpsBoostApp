@@ -6,7 +6,7 @@
 
 ### Key Features
 
-- **Intuitive navigation**: Simple and convenient navigation through the main sections: Home, Popular, Warehouse, Buyers.
+- **Intuitive navigation**: Simple and convenient navigation through the main sections: Home, Popular, Stock, Customers.
 - **Product Management**: View and manage PC components available for purchase.
 - **Customer Management**: View customer data and manage their orders.
 - **Database Integration**: Uses Microsoft Access database to store and retrieve data efficiently.
